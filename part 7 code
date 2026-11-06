@@ -13,7 +13,7 @@ int grades[5];
 int hasStudentData = 0;
 int hasGrades = 0;
 
-// CCR-007: New Global Variables for Application Statistics
+//New Global Variables for Application Statistics
 int totalStudentsEntered = 0;
 float totalGpaSum = 0.00;
 int totalHonorsStudents = 0;
